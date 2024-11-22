@@ -10,7 +10,11 @@
 
 I'm a self-learned Data Analyst and Python enthusiast from <kbd>![Ghana_Flag](https://github.com/user-attachments/assets/0618a8b3-7bd8-4d35-b4ef-7e6671004538)</kbd> Ghana.
 ### :woman_technologist: Me in 30 Seconds:
-
+- 🧬⚕️🔧 Biomedical Engineering Background
+- 📊 Developed keen interest in Data Analytics in 2022
+- 📈 Enjoy diving into data and learning new skills. I self-learned Python, SQL
+- 🌱 Exploring Medical Content Writing
+ - 📫 Reach me on: [![Linkedin: ayesha](https://img.shields.io/badge/-ayesha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshatiwaaahmad/)](https://www.linkedin.com/in/ayeshatiwaaahmad/)    
 
 <!--
 **tiwaa/tiwaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
