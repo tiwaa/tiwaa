@@ -9,12 +9,30 @@
 </h4>
 
 I'm a self-learned Data Analyst and Python enthusiast from <kbd>![Ghana_Flag](https://github.com/user-attachments/assets/0618a8b3-7bd8-4d35-b4ef-7e6671004538)</kbd> Ghana.
+_____________________________________________________________________________________________
+
 ### :woman_technologist: Me in 30 Seconds:
 - 🧬⚕️🔧 Biomedical Engineering Background
 - 📊 Developed keen interest in Data Analytics in 2022
 - 📈 Enjoy diving into data and learning new skills. I self-learned Python, SQL
 - 🌱 Exploring Medical Content Writing
  - 📫 Reach me on: [![Linkedin: ayesha](https://img.shields.io/badge/-ayesha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshatiwaaahmad/)](https://www.linkedin.com/in/ayeshatiwaaahmad/)    
+_____________________________________________________________________________________________
+### :hammer_and_wrench: Languages and Tools :
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20" height="20"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="20" height="20"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="20" height="20"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="20" height="20"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="20" height="20"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="20" height="20"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="20" height="20"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="20" height="20"/>&nbsp;
+</div>
+
+
 
 <!--
 **tiwaa/tiwaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
