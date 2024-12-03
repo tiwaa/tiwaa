@@ -32,7 +32,13 @@ ________________________________________________________________________________
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="20" height="20"/>&nbsp;
 </div>
 
+_____________________________________________________________________________________________
+<!--
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tiwaa)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **tiwaa/tiwaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
