@@ -17,7 +17,12 @@ ________________________________________________________________________________
 - 📈 Enjoy diving into data and learning new skills. I self-learned Python, SQL
 - 📊 Data analysis and reporting with Excel
  - 📫 Reach me on: [![Linkedin: ayesha](https://img.shields.io/badge/-ayesha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshatiwaaahmad/)](https://www.linkedin.com/in/ayeshatiwaaahmad/)    
-_____________________________________________________________________________________________
+
+### 📚 Projects
+Take a look at my portfolio where, I unveil my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+
+
+____________________________________________________________________________________________
 ### :hammer_and_wrench: Languages and Tools :
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="20" height="20"/>&nbsp;
