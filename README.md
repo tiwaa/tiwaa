@@ -19,7 +19,7 @@ ________________________________________________________________________________
  - 📫 Reach me on: [![Linkedin: ayesha](https://img.shields.io/badge/-ayesha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshatiwaaahmad/)](https://www.linkedin.com/in/ayeshatiwaaahmad/)    
 ____________________________________________________________________________________________
 ### 📚 Projects
-Take a look at my portfolio where, I unveil my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+Take a look at my portfolio where, I unveil my [projects](https://github.com/tiwaa/Portfolio-Escort).
 ____________________________________________________________________________________________
 ### :hammer_and_wrench: Languages and Tools :
 <div>
