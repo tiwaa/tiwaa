@@ -18,7 +18,8 @@ ________________________________________________________________________________
 - 📊 Data analysis and reporting with Excel
  - 📫 Reach me on: [![Linkedin: ayesha](https://img.shields.io/badge/-ayesha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshatiwaaahmad/)](https://www.linkedin.com/in/ayeshatiwaaahmad/)    
 ____________________________________________________________________________________________
-### 📚 Projects
+<div> <h3><img src="https://github.com/user-attachments/assets/37d29266-558b-48d6-8591-5012621cfd67" width="3%", height="3%"> Projects</h3></div>
+
 Take a look at my portfolio where, I unveil my [projects](https://github.com/tiwaa/Portfolio-Escort).
 ____________________________________________________________________________________________
 ### :hammer_and_wrench: Languages and Tools :
