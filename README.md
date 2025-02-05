@@ -8,7 +8,7 @@
 <h4 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h4>
 
-I'm a self-learned Data Analyst and Python enthusiast from <kbd>![Ghana_Flag](https://github.com/user-attachments/assets/0618a8b3-7bd8-4d35-b4ef-7e6671004538)</kbd> Ghana.
+I'm a self-learned Data Analyst and Python enthusiast from <kbd>![Ghana_Flag](https://github.com/tiwaa/tiwaa/blob/master/Images/Ghana_Flag.png)</kbd> Ghana.
 _____________________________________________________________________________________________
 
 ### :woman_technologist: Me in 30 Seconds:
@@ -24,6 +24,7 @@ Take a look at my portfolio where, I unveil my [projects](https://github.com/tiw
 ____________________________________________________________________________________________
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Excel"  alt="Excel" width="20" height="20"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20" height="20"/>&nbsp;
