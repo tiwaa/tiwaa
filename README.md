@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 Take a look at my portfolio where, I unveil my [projects](https://github.com/tiwaa/Portfolio-Escort).
 ____________________________________________________________________________________________
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/tiwaa/tiwaa/blob/master/Images/Excel.jpg" title="Excel"  alt="Excel" width="30" height="30"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="20" height="20"/>&nbsp;
