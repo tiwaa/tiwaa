@@ -16,6 +16,7 @@ ________________________________________________________________________________
 - 📊 Developed keen interest in Data Analytics in 2022
 - 📈 Enjoy diving into data and learning new skills. I self-learned Python, SQL
 - 📊 Data analysis and reporting with Excel
+- 🌱 Developing interest in Bookkeeping
  - 📫 Reach me on: [![Linkedin: ayesha](https://img.shields.io/badge/-ayesha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshatiwaaahmad/)](https://www.linkedin.com/in/ayeshatiwaaahmad/)    
 ____________________________________________________________________________________________
 <div> <h3><img src="https://github.com/user-attachments/assets/37d29266-558b-48d6-8591-5012621cfd67" width="3%", height="3%"> Projects</h3></div>
