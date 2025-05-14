@@ -15,7 +15,7 @@ ________________________________________________________________________________
 - 🧬⚕️🔧 Biomedical Engineering Background
 - 📊 Developed keen interest in Data Analytics in 2022
 - 📈 Enjoy diving into data and learning new skills. I self-learned Python, SQL
-- 📊 Data analysis and reporting with Excel
+- 📊 Data analysis and reporting with Excel, R, Jupyter Notebook
 - 🌱 Developing interest in Bookkeeping
  - 📫 Reach me on: [![Linkedin: ayesha](https://img.shields.io/badge/-ayesha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshatiwaaahmad/)](https://www.linkedin.com/in/ayeshatiwaaahmad/)    
 ____________________________________________________________________________________________
