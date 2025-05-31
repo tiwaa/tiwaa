@@ -4,7 +4,7 @@
 
 [![Linkedin: ayesha](https://img.shields.io/badge/-ayesha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeshatiwaaahmad/)](https://www.linkedin.com/in/ayeshatiwaaahmad/)
 ![GitHub followers](https://img.shields.io/github/followers/tiwaa?label=Follow&style=social)
-![visit count](https://pageview.vercel.app/?github_user=tiwaa)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftiwaa%2Fgithub-visitors-badge&label=Visitors&labelColor=%2337d67a&countColor=%23d9e3f0&style=plastic&labelStyle=upper)
 <h4 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h4>
 
