@@ -12,7 +12,7 @@ I'm a self-learned Data Analyst and Python enthusiast from <kbd>![Ghana_Flag](ht
 _____________________________________________________________________________________________
 
 ### :woman_technologist: Me in 30 Seconds:
-- 🧬⚕️🔧 Biomedical Engineering Back
+- 🧬⚕️🔧 Biomedical Engineering Background
 - 📊 Developed keen interest in Data Analytics in 2022
 - 📈 Enjoy diving into data and learning new skills. I self-learned Python, SQL
 - 📊 Data analysis and reporting with Excel, R, Jupyter Notebook
